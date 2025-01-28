@@ -1,9 +1,4 @@
 
-Here’s a sample README.md tailored for your email spam detection project:
-
-markdown
-Copy
-Edit
 # Email Spam Detection Project
 
 ## Overview
